@@ -1,0 +1,3 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = https://github.com/Ankit-K-Singh-0527/Module3_Data_Structure.git
